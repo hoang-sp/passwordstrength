@@ -1,6 +1,6 @@
 package passwordstrength;
 
-import java.util.Scanner; // ✅ Bổ sung import Scanner
+import java.util.Scanner;
 
 public class Passwordstrength {
 

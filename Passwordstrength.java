@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Passwordstrength {
 
     public static void main(String[] args) {
-        System.out.println("\n\t\tDataFlair's Password Strength Checker\n");
+        System.out.println("\n\t\tPassword Strength Checker\n");
         System.out.print("Enter the password: ");
         
         Scanner sc = new Scanner(System.in);
